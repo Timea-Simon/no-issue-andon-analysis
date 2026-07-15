@@ -8,7 +8,7 @@ I launched this project to analyze historical Andon data, identify patterns, and
 
 *Note on Data Privacy & Portfolio Dataset:* Due to NDA and strict data privacy rules at Amazon, I cannot share the original operational datasets. To demonstrate my technical skills, I used a simulated dataset of 200 generated cases that mirrors the logic, categories, and patterns of the real-world problem.
 
-*Real-World Impact:* While the project documentation and dashboard use simulated data for display purposes, the actual process I implemented on the floor led to measurable improvements. By analyzing the data weekly in Excel, I identified the top 10 associates with the highest error counts and shared these lists across all shifts for targeted coaching based on the Problem Solver feedback. Comparing the initial weekly metrics against the final week's data before my departure verified that this straightforward feedback loop was associated with a **~75% reduction in No Issue Andon volume over a 1 year period.**
+*Real-World Impact:* While the project documentation and dashboard use simulated data for display purposes, the actual process I implemented on the floor led to measurable improvements. By analyzing the data weekly in Excel, I identified the top 10 associates with the highest error counts and shared these lists across all shifts for targeted coaching based on the Problem Solver feedback. Comparing the initial weekly metrics against the final week's data before my departure verified that this straightforward feedback loop was associated with a **~65% reduction in No Issue Andon volume over a 1 year period.**
 
 ---
 
